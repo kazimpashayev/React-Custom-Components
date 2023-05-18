@@ -1,10 +1,33 @@
-# Getting Started with Create React App
+# React Custom Component Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The React Custom Component Project is a React application that includes a collection of custom components for building user interfaces. It features a custom router, sidebar, dropdown, accordion, buttons, modal, sortable table, and counter.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Custom Router: A flexible and configurable router component for handling navigation within the React application.
+- Sidebar: A sidebar component for creating a sidebar menu or navigation panel.
+- Dropdown: A customizable dropdown component for displaying lists of options.
+- Accordion: An expandable and collapsible accordion component for organizing content.
+- Buttons: A set of styled buttons with various options and styles.
+- Modal: A modal component for displaying overlays and dialog windows.
+- Sortable Table: A table component with the ability to sort columns.
+- Counter: A simple counter component for incrementing, decrementing and adding much more values.
+
+## Dependencies
+
+The React Custom Component Project relies on the following libraries:
+
+- Tailwind CSS: A utility-first CSS framework for building responsive and customizable user interfaces.
+- classnames: A JavaScript utility for conditionally joining classNames together.
+- immer: A library for working with immutable state by creating the next immutable state tree based on the current state and a set of changes.
+- react-icons: A collection of customizable icons for React applications.
+- prop-types: A runtime type-checking library for React props.
+
+## Usage
+
+The React Custom Component Project is designed as a standalone application, and the custom components included in this project are tailored specifically for this application's needs. To use these components in other projects, you can copy the relevant component files and modify them according to your requirements.
+
+Please note that the components in this project may have dependencies on other files within the project structure, such as styles or utility functions. Make sure to include all the necessary files when integrating the components into your own projects.
 
 ### `npm start`
 
